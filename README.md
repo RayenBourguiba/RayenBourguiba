@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/RayenBourguiba">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,angular,vue,mongodb,express,nodejs,java,spring,django,cs,dotnet,php,symfony,c,cpp,qt,mysql,git,github,postman,ps,ai,pr,ae" />
 </p>
 
