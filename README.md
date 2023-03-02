@@ -20,7 +20,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,angular,vue,mongodb,express,nodejs,java,spring,django,cs,dotnet,php,symfony,c,cpp,qt,mysql,git,github,postman,ps,ai,pr,ae)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,angular,vue,mongodb,express,nodejs,java,spring,django,cs,dotnet,php,symfony,c,cpp,qt,mysql,git,github,postman,ps,ai,pr,ae" />
+</p>
+
+
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayenbourguiba&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="rayenbourguiba" /></p>
 
