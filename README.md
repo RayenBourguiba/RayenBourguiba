@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayenbourguiba&label=Profile%20views&color=0e75b6&style=flat" alt="rayenbourguiba" /> </p>
 
-- 🔭 I’m currently working on **Minassa - A MERN Stack web application**
-
-- 🌱 I’m currently learning **React, ExpressJS, NodeJS & Django**
-
-- 📫 How to reach me **rayen.bourguiba@esprit.tn**
+- 📫 How to reach me **rayen.bourguiba01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
